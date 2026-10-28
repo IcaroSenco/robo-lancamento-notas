@@ -1,0 +1,20 @@
+RELATÓRIO DE EXECUÇÃO - ROBÔ DE LANÇAMENTO DE NOTAS
+Data: 27/10/2026 23:19:11
+Arquivo de origem: notas_alunos.csv
+Alunos no arquivo: 30 | Linhas ignoradas: 0
+Lançados: 30 | Aprovados: 20 | Reprovados: 10
+Tempo total: 59.6 s (1.99 s por aluno)
+Conferência da planilha: 13 divergência(s)
+  - 20251018 Samuel Dias: NÃO foi lançado
+  - 20251019 Thaís Moreira: NÃO foi lançado
+  - 20251020 Vinícius Cardoso: NÃO foi lançado
+  - 20251021 Yasmin Nunes: NÃO foi lançado
+  - 20251022 Arthur Correia: NÃO foi lançado
+  - 20251023 Beatriz Lopes: NÃO foi lançado
+  - 20251024 Caio Freitas: NÃO foi lançado
+  - 20251025 Débora Pinto: NÃO foi lançado
+  - 20251026 Enzo Monteiro: NÃO foi lançado
+  - 20251027 Fernanda Castro: NÃO foi lançado
+  - 20251028 Gustavo Ramos: NÃO foi lançado
+  - 20251029 Helena Duarte: NÃO foi lançado
+  - 20251030 Igor Batista: NÃO foi lançado
